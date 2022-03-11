@@ -65,7 +65,8 @@ __EXIT__ :
 - From this option you can exit from infect tool 
 
 ## SCREEN SHOTS [Ubuntu]
-![capture](![image](![image](![image]()
+![capture](![image](![image](![image](![image](https://user-images.githubusercontent.com/94483858/157891978-9780f652-39cb-4327-97ae-7158e63c968f.png)
+)
 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
